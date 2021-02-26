@@ -1,0 +1,6 @@
+1. Installer les modules Python (requirements.txt)
+2. Installer les packets supplémentaires (discord.py[voice]) : 
+"apt install libffi-dev libnacl-dev python3-dev"
+3. Installer Ocaml
+4. Importer bot_token.py :
+"bot_toke = <TON_TOKEN>"
