@@ -12,7 +12,7 @@ class Eval(commands.Cog):
         self.embed = {"py" : ["Python", 
                                 "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png",
                                 0x4B8BBE],
-                      "ocaml" : ["Ocmal", 
+                      "ocaml" : ["Ocaml", 
                                 "https://ocaml.org/img/colour-icon-170x148.png",
                                 0xEA8208]}
 
